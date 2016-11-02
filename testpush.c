@@ -3,5 +3,5 @@
 int main(void)
 {
 	printf("Hello world");
-	printf("HFUT");
+	printf("HFUT and Hyx");
 }
