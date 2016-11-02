@@ -3,5 +3,9 @@
 int main(void)
 {
 	printf("Hello world");
-	printf("HFUT and YY");
+<<<<<<< HEAD
+	printf("HFUT and Hyx");
+=======
+	printf("HFUT and Hyx");
+>>>>>>> feature1
 }
