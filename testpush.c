@@ -8,4 +8,5 @@ int main(void)
 =======
 	printf("HFUT and Hyx");
 >>>>>>> feature1
+	printf("YY");
 }
